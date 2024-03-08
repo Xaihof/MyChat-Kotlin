@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "181994544206",
+    "project_id": "mychat-1be83",
+    "storage_bucket": "mychat-1be83.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181994544206:android:03e6c9d25785361ad3f71f",
+        "android_client_info": {
+          "package_name": "com.example.mychatkotlin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz1hoU-W69_vHUMCDO6bnCm1d9gRnO1k8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
